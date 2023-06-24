@@ -1,5 +1,7 @@
 * {
     background-color: lightcoral;
+    max-width: 50vw;
+ 
 }
 
 p {
@@ -10,6 +12,12 @@ p {
 
 #image-pudding {
     display: flex;
-    max-width: 1rem;
-    min-width: auto;
+    width: 40vw;
+    min-width: 100px;
+}
+
+li {
+    background-color: blueviolet;
+    color:aliceblue;
+
 }
