@@ -1,0 +1,15 @@
+* {
+    background-color: lightcoral;
+}
+
+p {
+    background-color: greenyellow;
+    color: black;
+
+}
+
+#image-pudding {
+    display: flex;
+    max-width: 1rem;
+    min-width: auto;
+}
