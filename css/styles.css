@@ -10,7 +10,7 @@ p {
 
 }
 
-#image-pudding {
+.image {
     display: flex;
     width: 40vw;
     min-width: 100px;
